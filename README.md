@@ -1,1 +1,1 @@
-# Manufacturing-Defect---EDA-Repair-Cost-Trends-analysis
+This dataset contains simulated data related to manufacturing defects observed during quality control processes. It includes information such as defect type, detection date, location within the product, severity level, inspection method used, and repair costs. This dataset can be used for analyzing defect patterns, improving quality control processes, and assessing the impact of defects on product quality and production costs.
