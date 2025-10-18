@@ -30,5 +30,6 @@ repair_cost: Cost incurred to repair the defect (in local currency).
     🏭1. Defect by category - Monthly🗓️    
     🏭2. Defect by category - Weekly🗓️    
 💰 D.Repair Cost by Product(Cost of repair of top 10 defective products)    
-🏷️E.Top 5 most costly products    
+🏷️E.Top 5 most costly products     
+
 This dataset can be used for analyzing defect patterns, improving quality control processes, and assessing the impact of defects on product quality and production costs.In today’s world of Industry 4.0 and smart manufacturing, such data enables predictive quality management through analytics and automation, leading to reduced costs, improved reliability, and higher customer satisfaction while driving continuous improvement and competitiveness in manufacturing operations.
