@@ -1,7 +1,5 @@
 # Manufacturing-Defect---EDA-Repair-Cost-Trends-analysis
 This dataset contains simulated data related to manufacturing defects identified during quality control, including defect type, detection date, location within the product, severity level, inspection method used, and repair costs. It is crucial for improving product quality, reducing production waste, and enhancing process efficiency. By analyzing defect patterns, companies can identify root causes, optimize repair strategies, and minimize recurring issues.     
-Source of the data used for analysis (defect data):     
-https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects
     
 # Columns present in the dataset:
 The dataset contains following 8 column having different atrribute and features:
